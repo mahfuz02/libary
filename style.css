@@ -1,0 +1,9 @@
+#book-img{
+    height: 400px;
+}
+
+body{
+    background-image: url('./img/pexels-ivo-rainha-1290141.jpg') ;
+    background-size: cover;
+}
+
